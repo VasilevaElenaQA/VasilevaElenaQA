@@ -1,6 +1,6 @@
 
 
-[](https://github.com/Chembeleeva/SQL)
+![[sql]("C:\Users\Витя\git\postgresql.png")](https://github.com/Chembeleeva/SQL)
 
 
 <!---
