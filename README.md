@@ -1,6 +1,6 @@
 
 
-[ postgresql.png](https://github.com/Chembeleeva/SQL)
+[](https://github.com/Chembeleeva/SQL)
 
 
 <!---
