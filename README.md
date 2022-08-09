@@ -1,6 +1,11 @@
+#   Welcome to my GitHub
 
+ 
 
-![[sql](https://github.com/Chembeleeva/SQL/blob/main/postgresql.png)](https://github.com/Chembeleeva/SQL)
+[![Postman](postman.jpg)](https://github.com/Chembeleeva/Postman) 
+[![SQL](sql.png)](https://github.com/Chembeleeva/SQL) 
+[![Jira](jira-logo.jpg)](https://github.com/Chembeleeva/JIRA/blob/main/stepik-certificate-10425-fff68b1.pdf)
+
 
 
 <!---
