@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-
 Привет, меня зовут Лена<br>
 <ul>
 <li>Я закончила курсы QA-engineer от Вадима Ксендзова и нахожусь в активном поиске своей первой работы.<br> 
@@ -25,9 +22,4 @@
 <br>
 Для связи со мной можно написать сюда [Telegram](https://t.me/bettita89) 
 
-<!---
-Chembeleeva/Chembeleeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-=======
->>>>>>> 451bc6777c807754e51336c19198632bfb0b28a7
+
