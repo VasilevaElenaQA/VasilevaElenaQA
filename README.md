@@ -16,7 +16,7 @@
 [![Jira](jira_logo.png)](https://github.com/Chembeleeva/JIRA/blob/main/stepik-certificate-10425-fff68b1.pdf)
 [![JS](js.png)](https://github.com/Chembeleeva/JavaScript) 
 [![HTML](html.png)](https://github.com/Chembeleeva/HTML/blob/main/stepik-certificate-38218-18188ec.pdf) 
-[![CSS]()](https://github.com/Chembeleeva/CSS) 
+[![CSS](css.webp)](https://github.com/Chembeleeva/CSS) 
 [![Python](python.png)](https://github.com/Chembeleeva/Python) 
 [![Pycharm](pycharm.jpg)](https://github.com/Chembeleeva/Selenium) 
 [![Selenium](se.webp)](https://github.com/Chembeleeva/Selenium)
